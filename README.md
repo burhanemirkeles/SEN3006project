@@ -11,3 +11,4 @@ In this project the goal is creating a simple health tracking application.
 
 12/05/21 - I created the project files. The theme settings defined and navigation bar created. Navigation bar has a basic functionality to change the pages. 
 
+![First Dev](https://github.com/burhanemirkeles/SEN3006project/blob/main/images%20of%20project/ezgif.com-gif-maker.gif?raw=true) 
