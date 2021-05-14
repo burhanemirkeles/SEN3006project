@@ -1,16 +1,14 @@
 # self_care
 
-SEN3006 Software Arch. Lab Project
+SEN3006 Software Arch. Lab Project.
 
-## Getting Started
+This project is a mobile application which is developed on Flutter SDK with Dart Language. 
 
-This project is a starting point for a Flutter application.
+In this project the goal is creating a simple health tracking application. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Progress Summary
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+12/05/21 - I created the project files. The theme settings defined and navigation bar created. Navigation bar has a basic functionality to change the pages. 
+
+![First Dev](https://github.com/burhanemirkeles/SEN3006project/blob/main/images%20of%20project/ezgif.com-gif-maker.gif?raw=true) 
