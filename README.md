@@ -12,3 +12,7 @@ In this project the goal is creating a simple health tracking application.
 12/05/21 - I created the project files. The theme settings defined and navigation bar created. Navigation bar has a basic functionality to change the pages. 
 
 ![First Dev](https://github.com/burhanemirkeles/SEN3006project/blob/main/images%20of%20project/ezgif.com-gif-maker.gif?raw=true) 
+
+14/05/21 - I created the profile page and a results page. Results page observe BMI result for now. Later, in results page user can observe her/him weight, bmi results' history.
+
+![Sec Dev](https://github.com/burhanemirkeles/SEN3006project/blob/main/images%20of%20project/gif2.gif)
