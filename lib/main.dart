@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:self_care/constants.dart';
 import 'package:self_care/stats_page.dart';
 import 'articles_page.dart';
-import 'bottom_nav_bar.dart';
 import 'profile_page.dart';
 
 void main() {
