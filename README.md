@@ -22,3 +22,11 @@ I created articles and activity page as simple. Later, some youtube videos will 
 I created some constant values for widgets I used oftenly. Thus, when I want to change some designing properties I change on only one code block.
 
 ![Sec Dev](https://github.com/burhanemirkeles/SEN3006project/blob/main/images%20of%20project/gif2.gif)
+
+15/05/21 -
+
+I created the articles page. In this page users can observe youtube videos about healty life. For now, in articles page a youtube channel that I love to watch can be observed. Later, we start our youtube channel and show our videos to the users. 
+
+I use Youtube Data API v3. API key is stored project. 
+
+![Third Dev](https://github.com/burhanemirkeles/SEN3006project/blob/main/images%20of%20project/gif3.gif)
