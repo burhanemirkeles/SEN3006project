@@ -172,7 +172,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Text(
-                    'FATE RATE %',
+                    'FAT RATE %',
                     style: kLabelTextStyle,
                   ),
                   Row(
