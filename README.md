@@ -36,3 +36,19 @@ I use Youtube Data API v3. API key is stored project.
 I implemented the stats page's UI. In this page users can observe the daily burned calorie and steps graphic and the calculated weihgt, fat rate and BMI data. Initially, the graph of calorie and steps has no function and the history part added by hand. Later, history part will observe calculator's data automatically. 
 
 ![Fourth Dev](https://github.com/burhanemirkeles/SEN3006project/blob/main/images%20of%20project/gif4.gif)
+
+# Final View
+
+In final, I created all UI that we designed earlier. There is just one big problem in the project's last state that I hadn't have enough time to implement the backend of the second page of app which contains data history of user. I planned to use mobile device's health data firstly but on Apple devices there is no data sharing and on Android devices situation is even worse. Later, the health packages of flutter may be used for this.  
+
+When developing this Lab Project for lecture, I have learnt so many things about mobile development, the vital ones for me can be listed as:
+
+```
+* Flutter is awesome. There are enormous information for beginners.
+  Documentation is like a bible, you can find almost everything.
+* Using of APIs.
+* I learned how design should not be by making bad design choices.
+* The scheduling is vital for development progress. 
+Probably, I could finish the second page too if I planned well.
+* more and more :)
+
